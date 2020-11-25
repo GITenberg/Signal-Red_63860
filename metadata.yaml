@@ -1,11 +1,16 @@
 _repo: Signal-Red_63860
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63860-h/images/cover.jpg
 creator:
   author:
     agent_name: Guth, Henry
     gutenberg_agent_id: '52641'
     url: http://www.gutenberg.org/2009/agents/52641
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63860#Signal-Red
 gutenberg_issued: '2020-11-23'
 gutenberg_type: Text
 identifiers:
